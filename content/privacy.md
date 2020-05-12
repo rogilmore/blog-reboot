@@ -10,4 +10,4 @@ share: false
 title: Privacy Policy
 ---
 
-...
+This site collects no personal data about you.

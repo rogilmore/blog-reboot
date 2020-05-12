@@ -23,15 +23,20 @@ author = "admin"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "Ph.D. in Psychology and Cognitive Neuroscience"
-  institution = "Carnegie Mellon University"
-  year = 1997
-
-[[education.courses]]
-  course = "BA in Cognitive Science"
-  institution = "Brown University"
-  year = 1985
+# [[education.courses]]
+#   course = "Ph.D. in Psychology and Cognitive Neuroscience"
+#   institution = "Carnegie Mellon University"
+#   year = 1997
+#   
+# [[education.courses]]
+#   course = "M.A. in Psychology"
+#   institution = "Carnegie Mellon University"
+#   year = 1995
+# 
+# [[education.courses]]
+#   course = "B.A, magna cum laude, in Cognitive Science"
+#   institution = "Brown University"
+#   year = 1985
  
 +++
 

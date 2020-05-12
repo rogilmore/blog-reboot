@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Fri, 28 Dec 2018 16:55:00 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -13,24 +13,66 @@
     </image>
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
-      <description></description>
+      <title>PLAY project</title>
+      <link>/project/play/</link>
+      <pubDate>Fri, 28 Dec 2018 16:55:00 -0500</pubDate>
+      <guid>/project/play/</guid>
+      <description>&lt;p&gt;The Play &amp;amp; Learning Across a Year (PLAY) project will provide a first-ever glimpse inside the homes of almost 1,000 families across the U.S.
+We will collect, annotate (code), and openly share on 
+&lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Databrary&lt;/a&gt; video recordings of mothers and 12-, 18-, and 24-month-old infants engaged in natural behavior in their homes.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Ethical data sharing</title>
+      <link>/project/permission-to-share/</link>
+      <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
+      <guid>/project/permission-to-share/</guid>
+      <description>&lt;p&gt;Video recordings pose challenges for data sharing.
+They contain faces and voices that cannot be easily eliminated or altered without harming the value of the recordings for other researchers.
+My colleagues and I developed a data sharing policy framework for Databrary that requires researchers to gain consent to share from research participants and restricts access to institutionally-approved researchers.
+Databrary&amp;rsquo;s template sharing release (permission) language may be found 
+&lt;a href=&#34;https://www.databrary.org/resources/templates/release-template.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, and some draft language relevant for gaining permission to share identifiable in the context of the EU&amp;rsquo;s General Data Protection Regulation (GDPR) may be found 
+&lt;a href=&#34;https://github.com/gilmore-lab/ethical-data-sharing-w-GDPR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>databraryapi package</title>
+      <link>/project/databraryapi/</link>
+      <pubDate>Thu, 27 Dec 2018 12:52:01 -0500</pubDate>
+      <guid>/project/databraryapi/</guid>
+      <description>&lt;p&gt;I have released a working version (0.1.4) of an R package that interacts with the 
+&lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Databrary.org&lt;/a&gt; API.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Databrary.org</title>
+      <link>/project/databrary.org/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <guid>/project/databrary.org/</guid>
+      <description>&lt;p&gt;Karen Adolph and I co-founded 
+&lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Databrary.org&lt;/a&gt;, a data library specialized for securely storing, streaming, and sharing video and audio recordings for use as data and documentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datavyu.org</title>
+      <link>/project/datavyu.org/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <guid>/project/datavyu.org/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://datavyu.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datavyu.org&lt;/a&gt; is a free open-source tool for video and audio annotation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Proximal Emotional Environment Project (PEEP)</title>
+      <link>/project/peep/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <guid>/project/peep/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -5,12 +5,20 @@
     <link>/tag/data-sharing/</link>
       <atom:link href="/tag/data-sharing/index.xml" rel="self" type="application/rss+xml" />
     <description>data sharing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Thu, 23 Jan 2020 00:00:00 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020</copyright><lastBuildDate>Tue, 12 May 2020 00:00:00 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>data sharing</title>
       <link>/tag/data-sharing/</link>
     </image>
+    
+    <item>
+      <title>I know that voice! Mothers&#39; voices influence children&#39;s perceptions of emotional intensity</title>
+      <link>/publication/jecp-2020/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 -0400</pubDate>
+      <guid>/publication/jecp-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Advancing scientific integrity, transparency, and openness in child development research: Challenges and possible solutions</title>
@@ -117,11 +125,56 @@ That ultimate goal can get lost in the sometimes devilish discussions about spec
     </item>
     
     <item>
+      <title>PLAY project</title>
+      <link>/project/play/</link>
+      <pubDate>Fri, 28 Dec 2018 16:55:00 -0500</pubDate>
+      <guid>/project/play/</guid>
+      <description>&lt;p&gt;The Play &amp;amp; Learning Across a Year (PLAY) project will provide a first-ever glimpse inside the homes of almost 1,000 families across the U.S.
+We will collect, annotate (code), and openly share on 
+&lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Databrary&lt;/a&gt; video recordings of mothers and 12-, 18-, and 24-month-old infants engaged in natural behavior in their homes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ethical data sharing</title>
+      <link>/project/permission-to-share/</link>
+      <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
+      <guid>/project/permission-to-share/</guid>
+      <description>&lt;p&gt;Video recordings pose challenges for data sharing.
+They contain faces and voices that cannot be easily eliminated or altered without harming the value of the recordings for other researchers.
+My colleagues and I developed a data sharing policy framework for Databrary that requires researchers to gain consent to share from research participants and restricts access to institutionally-approved researchers.
+Databrary&amp;rsquo;s template sharing release (permission) language may be found 
+&lt;a href=&#34;https://www.databrary.org/resources/templates/release-template.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, and some draft language relevant for gaining permission to share identifiable in the context of the EU&amp;rsquo;s General Data Protection Regulation (GDPR) may be found 
+&lt;a href=&#34;https://github.com/gilmore-lab/ethical-data-sharing-w-GDPR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Practical solutions for sharing data and materials from psychological research</title>
       <link>/publication/practical-solutions/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
       <guid>/publication/practical-solutions/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Databrary.org</title>
+      <link>/project/databrary.org/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <guid>/project/databrary.org/</guid>
+      <description>&lt;p&gt;Karen Adolph and I co-founded 
+&lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Databrary.org&lt;/a&gt;, a data library specialized for securely storing, streaming, and sharing video and audio recordings for use as data and documentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datavyu.org</title>
+      <link>/project/datavyu.org/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <guid>/project/datavyu.org/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://datavyu.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datavyu.org&lt;/a&gt; is a free open-source tool for video and audio annotation.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

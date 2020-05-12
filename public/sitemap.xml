@@ -3,53 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/ho-ho/</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/poetry/</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2020-01-23T00:00:00-05:00</lastmod>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/data-sharing/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/emotion/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/environment/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/ho-ho-ho/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/jecp-2020/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/koraly-perez-edgar/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/michelle-c.-vigeant/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pamela-m.-cole/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/peter-m.-moriarty/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/poet-terrorist/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/poetry/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rachel-wolf/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rick-o.-gilmore/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/suzanne-scherf/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tawni-b.-stoop/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -58,17 +108,7 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-01-23T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/carol-m.-worthman/</loc>
-    <lastmod>2020-01-23T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/data-sharing/</loc>
     <lastmod>2020-01-23T00:00:00-05:00</lastmod>
   </url>
   
@@ -83,38 +123,13 @@
   </url>
   
   <url>
-    <loc>/author/pamela-m.-cole/</loc>
-    <lastmod>2020-01-23T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-01-23T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-01-23T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/rick-o.-gilmore/</loc>
-    <lastmod>2020-01-23T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/suman-verma/</loc>
     <lastmod>2020-01-23T00:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-01-23T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/the-poet-terrorist/</loc>
-    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -124,6 +139,11 @@
   
   <url>
     <loc>/category/politics/</loc>
+    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
     <lastmod>2019-11-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -213,8 +233,8 @@
   </url>
   
   <url>
-    <loc>/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>/category/poetry/</loc>
+    <lastmod>2019-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -270,26 +290,6 @@
   <url>
     <loc>/tag/pre-registration/</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/rick-gilmore/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -354,16 +354,6 @@
   
   <url>
     <loc>/post/behavior-is-the-linchpin/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -463,6 +453,21 @@
   </url>
   
   <url>
+    <loc>/tag/annotation/</loc>
+    <lastmod>2018-12-28T16:55:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/play/</loc>
+    <lastmod>2018-12-28T16:55:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2018-12-28T16:55:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/software/</loc>
     <lastmod>2018-12-28T00:00:00+00:00</lastmod>
   </url>
@@ -475,6 +480,31 @@
   <url>
     <loc>/post/test-driven-development-is-hard-and-important/</loc>
     <lastmod>2018-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/consent/</loc>
+    <lastmod>2018-12-27T14:31:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/permission-to-share/</loc>
+    <lastmod>2018-12-27T14:31:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/gdpr/</loc>
+    <lastmod>2018-12-27T14:31:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/policy/</loc>
+    <lastmod>2018-12-27T14:31:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/databraryapi/</loc>
+    <lastmod>2018-12-27T12:52:01-05:00</lastmod>
   </url>
   
   <url>
@@ -498,22 +528,12 @@
   </url>
   
   <url>
-    <loc>/tag/emotion/</loc>
-    <lastmod>2018-12-05T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/k.-suzanne-scherf/</loc>
     <lastmod>2018-12-05T00:00:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>/author/koraly-e.-perez-edgar/</loc>
-    <lastmod>2018-12-05T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/michelle-c.-vigeant/</loc>
     <lastmod>2018-12-05T00:00:00-05:00</lastmod>
   </url>
   
@@ -538,6 +558,86 @@
   </url>
   
   <url>
+    <loc>/tag/neuroscience/</loc>
+    <lastmod>2018-10-29T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/olli-2018-10-29/</loc>
+    <lastmod>2018-10-29T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2018-10-29T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/arts/</loc>
+    <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cycling/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/ham_radio_2/</loc>
+    <lastmod>2018-09-09T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ham-radio/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/heroics/</loc>
+    <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/hiking/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/ham_radio_1/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/music/</loc>
+    <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/adventure/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/paddling/</loc>
+    <lastmod>2020-05-12T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/public_service/</loc>
+    <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/theatre/</loc>
+    <lastmod>2018-12-28T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
@@ -553,6 +653,51 @@
   </url>
   
   <url>
+    <loc>/tag/cybernetics/</loc>
+    <lastmod>2018-03-27T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/dynamics/</loc>
+    <lastmod>2018-03-27T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/play/</loc>
+    <lastmod>2018-03-27T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/cne-2019-03-27/</loc>
+    <lastmod>2018-03-27T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/unknown-knowns/</loc>
+    <lastmod>2018-03-27T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/carol-worthman/</loc>
+    <lastmod>2018-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/catherine-tamis-lemonda/</loc>
+    <lastmod>2018-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lisa-gennetian/</loc>
+    <lastmod>2018-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/srcd-2019-03-22/</loc>
+    <lastmod>2018-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/joy-l.-kennedy/</loc>
     <lastmod>2018-01-01T00:00:00-05:00</lastmod>
   </url>
@@ -563,38 +708,58 @@
   </url>
   
   <url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>/personal/goad-gunner/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>/personal/speedy-recovery/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>/project/databrary.org/</loc>
+    <lastmod>2016-04-27T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>/project/datavyu.org/</loc>
+    <lastmod>2016-04-27T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>/tag/matlab/</loc>
+    <lastmod>2016-04-27T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>/project/peep/</loc>
+    <lastmod>2016-04-27T00:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>/personal/fourth-and-long/</loc>
+    <lastmod>2019-03-29T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/delightful-delusion/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/promise/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/specific-gravity/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/i-never-metaphysics/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -618,8 +783,92 @@
   </url>
   
   <url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/personal/haiku-4-u/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/lonely-cicada/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/oh-beautiful/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/food-for-thought/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/four-letter-word/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/who-knows-how-to-unmake-love/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/lipstick-on-a-pig/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/unsolicited-advice/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/who-shall-lionize/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/angels-blue/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/love-of-death/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/no-one-loves-a-volcano/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/the-physics-of-love/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/worn-on-the-sleeve/</loc>
+    <lastmod>2019-03-29T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/there-are-no-heroes/</loc>
+    <lastmod>2019-03-18T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/we-do-not-swim/</loc>
+    <lastmod>2019-03-29T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/personal/joy-untethered/</loc>
+    <lastmod>2019-03-29T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rick-gilmore/</loc>
   </url>
   
 </urlset>

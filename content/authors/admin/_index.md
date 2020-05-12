@@ -4,24 +4,26 @@ authors:
 bio: My research interests include perceptual development, big data approaches to behavioral science, and open science.
 education:
   courses:
-  - course: Ph.D. in Psychology
+  - course: Ph.D., Psychology
     institution: Carnegie Mellon University
     year: 1997
-  - course: M.S. in Psychology
+  - course: M.S., Psychology
     institution: Carnegie Mellon University
     year: 1995
-  - course: A.B. magna cum laude, in Cognitive Science
+  - course: A.B. magna cum laude, Cognitive Science
     institution: Brown University
     year: 1985
 email: "rog1@psu.edu"
 interests:
-- Perception and action
-- Brain development
-- Computer vision and behavioral research
+- Perceptual, cognitive, & brain development
 - Open science
+- Amateur radio (callsign K3ROG)
+- Poetry, music, & theatre; cycling, hiking, & camping
 organizations:
 - name: The Pennsylvania State University
   url: "https://www.psu.edu"
+- name: Databrary
+  url: "https://databrary.org"
 role: Professor of Psychology
 social:
 - icon: envelope

@@ -20,5 +20,15 @@
       <description></description>
     </item>
     
+    <item>
+      <title>databraryapi package</title>
+      <link>/project/databraryapi/</link>
+      <pubDate>Thu, 27 Dec 2018 12:52:01 -0500</pubDate>
+      <guid>/project/databraryapi/</guid>
+      <description>&lt;p&gt;I have released a working version (0.1.4) of an R package that interacts with the 
+&lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Databrary.org&lt;/a&gt; API.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

@@ -20,5 +20,50 @@
       <description></description>
     </item>
     
+    <item>
+      <title>PLAY project</title>
+      <link>/project/play/</link>
+      <pubDate>Fri, 28 Dec 2018 16:55:00 -0500</pubDate>
+      <guid>/project/play/</guid>
+      <description>&lt;p&gt;The Play &amp;amp; Learning Across a Year (PLAY) project will provide a first-ever glimpse inside the homes of almost 1,000 families across the U.S.
+We will collect, annotate (code), and openly share on 
+&lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Databrary&lt;/a&gt; video recordings of mothers and 12-, 18-, and 24-month-old infants engaged in natural behavior in their homes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ethical data sharing</title>
+      <link>/project/permission-to-share/</link>
+      <pubDate>Thu, 27 Dec 2018 14:31:00 -0500</pubDate>
+      <guid>/project/permission-to-share/</guid>
+      <description>&lt;p&gt;Video recordings pose challenges for data sharing.
+They contain faces and voices that cannot be easily eliminated or altered without harming the value of the recordings for other researchers.
+My colleagues and I developed a data sharing policy framework for Databrary that requires researchers to gain consent to share from research participants and restricts access to institutionally-approved researchers.
+Databrary&amp;rsquo;s template sharing release (permission) language may be found 
+&lt;a href=&#34;https://www.databrary.org/resources/templates/release-template.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, and some draft language relevant for gaining permission to share identifiable in the context of the EU&amp;rsquo;s General Data Protection Regulation (GDPR) may be found 
+&lt;a href=&#34;https://github.com/gilmore-lab/ethical-data-sharing-w-GDPR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Databrary.org</title>
+      <link>/project/databrary.org/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <guid>/project/databrary.org/</guid>
+      <description>&lt;p&gt;Karen Adolph and I co-founded 
+&lt;a href=&#34;https://databrary.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Databrary.org&lt;/a&gt;, a data library specialized for securely storing, streaming, and sharing video and audio recordings for use as data and documentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datavyu.org</title>
+      <link>/project/datavyu.org/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <guid>/project/datavyu.org/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://datavyu.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datavyu.org&lt;/a&gt; is a free open-source tool for video and audio annotation.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
